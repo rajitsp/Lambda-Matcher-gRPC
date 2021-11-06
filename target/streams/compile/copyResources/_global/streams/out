@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\src\main\protobuf\helloworld.proto,D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\helloworld.proto)
+[debug] 	(D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\src\main\resources\application.conf,D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\application.conf)
+[debug] 	(D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\src\main\resources\logback.xml,D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\logback.xml)
+[debug] 	(D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\src\main\resources\certs\ca.pem,D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\certs\ca.pem)
+[debug] 	(D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\src\main\resources\certs\server1.key,D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\certs\server1.key)
+[debug] 	(D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\src\main\resources\certs\server1.pem,D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\certs\server1.pem)

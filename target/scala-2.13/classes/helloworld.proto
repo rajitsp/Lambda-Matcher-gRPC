@@ -1,0 +1,24 @@
+//#service-request-reply
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "LogAnalyser";
+option java_outer_classname = "LogAnalyserProto";
+
+service LogFinderService {
+
+    rpc FindLog (FindLogRequest) returns (FindLogReply) {}
+
+}
+
+// The request message containing the timestamp and time delta.
+message FindLogRequest {
+    string timestamp = 1;
+    string delta = 2;
+}
+
+// The response message containing the dictionary as string
+message FindLogReply{
+    string response = 1;
+}
+//#service-request-reply

@@ -1,0 +1,9 @@
+[debug] > Exec(Test, None, None)
+[error] Not a valid command: Test (similar: set, last, exit)
+[error] Not a valid project ID: Test
+[error] Expected ':'
+[error] Expected '/'
+[error] Not a valid key: Test (similar: test, testOnly, state)
+[error] Test
+[error]     ^
+[debug] > Exec(idea-shell, None, None)

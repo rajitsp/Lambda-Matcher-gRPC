@@ -1,0 +1,87 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\lambda-matcher-grpc_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	certs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\certs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	certs\ca.pem[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\certs\ca.pem[0m
+[0m[[0m[0mdebug[0m] [0m[0m	certs\server1.key[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\certs\server1.key[0m
+[0m[[0m[0mdebug[0m] [0m[0m	certs\server1.pem[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\certs\server1.pem[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\Empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloworld.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\helloworld.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\HelperUtils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\CreateLogger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\HelperUtils\CreateLogger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\CreateLogger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\HelperUtils\CreateLogger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\ObtainConfigReference$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\HelperUtils\ObtainConfigReference$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\ObtainConfigReference.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\HelperUtils\ObtainConfigReference.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\DefaultLogFinderServiceClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\DefaultLogFinderServiceClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\DefaultLogFinderServiceClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\DefaultLogFinderServiceClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\FindLogReply$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\FindLogReply$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\FindLogReply$FindLogReplyLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\FindLogReply$FindLogReplyLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\FindLogReply.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\FindLogReply.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\FindLogRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\FindLogRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\FindLogRequest$FindLogRequestLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\FindLogRequest$FindLogRequestLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\FindLogRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\FindLogRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\HelloworldProto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\HelloworldProto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\HelloworldProto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\HelloworldProto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogAnalyserClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogAnalyserClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogAnalyserClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogAnalyserClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogAnalyserServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogAnalyserServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogAnalyserServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogAnalyserServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogAnalyserServiceImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogAnalyserServiceImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderService$MethodDescriptors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderService$MethodDescriptors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderService$Serializers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderService$Serializers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderServiceClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderServiceClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderServiceClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderServiceClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderServiceClientPowerApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderServiceClientPowerApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderServiceHandler$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderServiceHandler$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderServiceHandler$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderServiceHandler$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderServiceHandler$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderServiceHandler$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderServiceHandler$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderServiceHandler$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderServiceHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderServiceHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LogAnalyser\LogFinderServiceHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\LogAnalyser\LogFinderServiceHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

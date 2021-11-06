@@ -1,0 +1,37 @@
+[debug] Created transactional ClassFileManager with tempDir = D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	LogAnalyserServer.class
+[debug] 	LogFinderServiceClientPowerApi.class
+[debug] 	HelloworldProto.class
+[debug] 	LogFinderService$Serializers$.class
+[debug] 	FindLogRequest$FindLogRequestLens.class
+[debug] 	LogFinderServiceHandler.class
+[debug] 	ObtainConfigReference$.class
+[debug] 	DefaultLogFinderServiceClient$.class
+[debug] 	FindLogRequest.class
+[debug] 	HelloworldProto$.class
+[debug] 	LogFinderServiceHandler$.class
+[debug] 	FindLogReply$.class
+[debug] 	FindLogReply$FindLogReplyLens.class
+[debug] 	LogFinderServiceClient$.class
+[debug] 	LogAnalyserServer$.class
+[debug] 	LogFinderServiceHandler$$anonfun$apply$4.class
+[debug] 	CreateLogger.class
+[debug] 	LogFinderServiceClient.class
+[debug] 	ObtainConfigReference.class
+[debug] 	LogFinderServiceHandler$$anonfun$apply$3.class
+[debug] 	FindLogRequest$.class
+[debug] 	LogAnalyserClient.class
+[debug] 	LogAnalyserServiceImpl.class
+[debug] 	LogAnalyserClient$.class
+[debug] 	CreateLogger$.class
+[debug] 	FindLogReply.class
+[debug] 	LogFinderService$.class
+[debug] 	LogFinderServiceHandler$$anonfun$apply$1.class
+[debug] 	LogFinderService$MethodDescriptors$.class
+[debug] 	LogFinderService.class
+[debug] 	LogFinderServiceHandler$$anonfun$apply$2.class
+[debug] 	DefaultLogFinderServiceClient.class
+[debug] Removing the temporary directory used for backing up class files: D:\0UIC Courses\CS 441 - Cloud computing\Lambda-Matcher-gRPC\target\scala-2.13\classes.bak
