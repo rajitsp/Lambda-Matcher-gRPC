@@ -51,7 +51,7 @@ The response is in the following JSON form with timestamps as the keys and log m
 
 This workflow describes the entire communication taking place between various entities in the project, hopefully, giving a clear understanding of working of the architecture of the system.
 
-![Alt text](doc/workflow.jpg?raw=true "gRPC_flowchart")
+![Alt text](gRPC_flowchart.png?raw=true "System Architecture")
 
 ###Lambda function
 
