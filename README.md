@@ -53,7 +53,7 @@ This workflow describes the entire communication taking place between various en
 
 ![Alt text](gRPC_flowchart.png?raw=true "System Architecture")
 
-###Lambda function
+### Lambda function
 
 The following AWS Lambda function searches if the time stamp is present in log data and then execute pattern matching to retrieve the desired logs.
 ```
